@@ -1,6 +1,6 @@
 # README
 
-### Basilisk
+### Basilisk (Rodrigo)
 
 * [Summary of Basilisk](http://hanspeterschaub.info/basilisk/index.html)
 * [Versions](http://hanspeterschaub.info/basilisk/Support/bskReleaseNotes.html)
