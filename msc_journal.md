@@ -34,3 +34,4 @@ Extra tasks for next entry:
 
 Tasks from April 9th still have to be done.
 Hour debt from today: 4 hours
+
